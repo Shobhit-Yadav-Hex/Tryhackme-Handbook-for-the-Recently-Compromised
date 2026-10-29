@@ -159,4 +159,4 @@ mshta.exe  --->  hidden powershell.exe
 
 ---
 
-*Written by Shobhit | Cybersecurity learner, CTF and DFIR practice*
+*Written by Shubham Yadav | Cybersecurity learner, CTF and DFIR practice*
